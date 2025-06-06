@@ -10,18 +10,18 @@ This project demonstrates a complete modern data pipeline that extracts raw data
 
 ## 📚 Architecture
 
-[External API]
-↓
-[Azure Data Factory / Azure Function]
-↓
-[Azure Data Lake Storage Gen2 (Bronze)]
-↓
-[Azure Databricks Notebook – ETL Processing]
-↓
-[Delta Lake – Silver & Gold Layers]
-↓
-[Power BI / Azure Synapse Analytics (Optional)]
 
+[External API] <br>
+↓ <br>
+[Azure Data Factory / Azure Function] <br>
+↓ <br>
+[Azure Data Lake Storage Gen2 (Bronze)] <br>
+↓ <br>
+[Azure Databricks Notebook – ETL Processing] <br>
+↓ <br>
+[Delta Lake – Silver & Gold Layers] <br>
+↓ <br>
+[Power BI / Azure Synapse Analytics (Optional)]
 
 ---
 
